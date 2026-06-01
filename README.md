@@ -1,2 +1,7 @@
-# demo-construcciones-civiles-alex-escobar
-Demo web para Construcciones civiles Alex Escobar — diseñada por eterlab.
+# Construcciones civiles Alex Escobar
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
